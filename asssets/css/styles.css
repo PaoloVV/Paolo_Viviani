@@ -1,4 +1,7 @@
-.title{
-    background-image: url(../images/web-dev-background.jpg);
+.mask{
+    background-image: url(../images/sfondo-blu-medium.jpg);
     background-size: cover;
+    background-blend-mode: multiply;
+    height: 400px;
 }
+
